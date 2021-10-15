@@ -1,0 +1,6 @@
+{
+    "extends": "œreact-native-community",
+    "rules":{
+        "quotes": [2, "double", {"avoidEscape": true}]
+    }
+}
